@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "§eAn Addon Made By @ayatodayoh that repalces the player model with Asat Pramad",
+    "name": "§eHonkai; Star Rail: §dAsat §5Pramad",
+    "uuid": "21669ab1-f523-4d9a-90dc-e3151fca095f",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "§eAn Addon Made By @ayatodayoh that repalces the player model with Asat Pramad",
+      "type": "resources",
+      "uuid": "db45c5bf-316d-4677-8b58-985fc8c2e537",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
